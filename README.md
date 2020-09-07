@@ -1,10 +1,5 @@
 # ML-Project-2-Drug-Sales
 
-<p align="center">
-  <img src="Pictures/drug.jpg">
-<p align="center">
-
-
 #### Conclusion
 
 The following final models used on the test dataset, N02BA, and their RMSE and R2 respectively are:
