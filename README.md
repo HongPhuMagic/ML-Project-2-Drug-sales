@@ -17,8 +17,8 @@ With Linear regression (54% accuracy), polynomial regression, and gradient boost
 #### Project Goal
 
 The goal for this project was to build regression models that can be used to predict future drug sales of:
-    * N02BA - Analgesics and antipyretics, Salicylic acid and derivatives
-    * N05B - Psycholeptics drugs, Anxiolytic drugs
+* N02BA - Analgesics and antipyretics, Salicylic acid and derivatives
+* N05B - Psycholeptics drugs, Anxiolytic drugs
 
 * Apply regression machine learning algorithms:
     * Linear Regression
