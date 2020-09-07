@@ -26,7 +26,7 @@ The goal for this project was to build regression models that can be used to pre
 ![](Pictures/BA.JPG)
 
 * N05B - Psycholeptics drugs, Anxiolytic drugs
-![](Pictures/A.JPG)
+![](Pictures/B.JPG)
 
 * Apply regression machine learning algorithms:
     * Linear Regression
