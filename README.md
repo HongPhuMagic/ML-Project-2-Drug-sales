@@ -9,8 +9,13 @@
 
 The following final models used on the test dataset, N02BA, and their RMSE and R2 respectively are:
 * Linear Regression (RMSE: 36.53, R2: 0.076)
+![](Pictures/lr.JPG)
+
 * Polynomial Regression (RMSE: 38.13, R2: -0.007)
+![](Pictures/po.JPG)
+
 * Gradient boosting (RMSE: 45.73, R2: -0.448)
+![](Pictures/gb.JPG)
 
 With Linear regression (54% accuracy), polynomial regression, and gradient boosting (99% accuracy) as the best three performing models.
 
@@ -18,7 +23,10 @@ With Linear regression (54% accuracy), polynomial regression, and gradient boost
 
 The goal for this project was to build regression models that can be used to predict future drug sales of:
 * N02BA - Analgesics and antipyretics, Salicylic acid and derivatives
+![](Pictures/BA.JPG)
+
 * N05B - Psycholeptics drugs, Anxiolytic drugs
+![](Pictures/BA.JPG)
 
 * Apply regression machine learning algorithms:
     * Linear Regression
