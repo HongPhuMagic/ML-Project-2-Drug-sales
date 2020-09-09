@@ -26,8 +26,6 @@ There are less consumptions of N05B & N02BA classes of drugs over time. There I 
 * Gradient Boosting (RMSE: 45.73, R2: -0.448)
 ![](Pictures/gb.JPG)
 
-With linear regression (54% accuracy), polynomial regression, and gradient boosting (99% accuracy) as the best three performing models.
-
 
 #### Data Source
 
