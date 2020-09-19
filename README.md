@@ -14,18 +14,17 @@ The goal for this project was to predict future classes of drug sales for the fo
 
 There are less consumptions of N05B & N02BA classes of drugs over time. There I would not rely on the final models built to predict drug sales for the classes of drugs I was interested in. I used five different regression models and selected the best three performing models using the results from the cross validation function. The following final models used on the test dataset, N02BA, and their RMSE and R2 respectively are:
 
-* Linear Regression (RMSE: 36.53, R2: 0.076)
+* Linear Regression (MAE: 7.29, RMSE: 8.86)
 ![](Pictures/lr.JPG)
 
-* Polynomial Regression (RMSE: 38.13, R2: -0.007)
+* Polynomial Regression (MAE: 7.30, RMSE: 8.88)
 ![](Pictures/po.JPG)
 
-* Random Forest Regression (RMSE: 48.50, R2: -0.550)
+* Random Forest Ression (MAE: 9.47, RMSE: 11.22)
 ![](Pictures/r.JPG)
 
-* Gradient Boosting (RMSE: 45.73, R2: -0.448)
+* Gradient boosting (MAE: 8.86, RMSE: 10.62) 
 ![](Pictures/gb.JPG)
-
 
 #### Data Source
 
